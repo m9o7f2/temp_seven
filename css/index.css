@@ -68,7 +68,8 @@ section form button{
     position: absolute;
     right: 0px;
 }
-
+.attribution { font-size: 11px}
+.attribution a { color: hsl(228, 45%, 44%); }
 
 @font-face{
     font-family: "Sans";
